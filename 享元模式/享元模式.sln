@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "享元模式", "享元模式\享元模式.csproj", "{D1AB7B81-CBAC-45CB-AD22-3E1B7AF43E87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1AB7B81-CBAC-45CB-AD22-3E1B7AF43E87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1AB7B81-CBAC-45CB-AD22-3E1B7AF43E87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1AB7B81-CBAC-45CB-AD22-3E1B7AF43E87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1AB7B81-CBAC-45CB-AD22-3E1B7AF43E87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

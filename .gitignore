@@ -1,0 +1,14 @@
+# Rider / Visual Studio 自动生成的文件
+.idea/
+.vs/
+*.user
+*.suo
+*.sln.docstates
+
+# 编译输出文件夹
+bin/
+obj/
+
+# 系统垃圾文件
+Thumbs.db
+.DS_Store
