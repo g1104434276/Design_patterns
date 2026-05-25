@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "命令模式", "命令模式\命令模式.csproj", "{FA141C58-67EE-4FA9-9FA1-DE341358AFE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA141C58-67EE-4FA9-9FA1-DE341358AFE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA141C58-67EE-4FA9-9FA1-DE341358AFE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA141C58-67EE-4FA9-9FA1-DE341358AFE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA141C58-67EE-4FA9-9FA1-DE341358AFE2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
